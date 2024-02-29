@@ -1,5 +1,7 @@
 # Module Exam Handouts
 
+This project is about github tools which is going to learn in week SGTA class
+
 Students are invited to contribute to [the wiki](https://github.com/Comp1050-2024s1/module-wiki/wiki) in this repo. It contains for each of the three module exams a wiki page as a markdown file.
 
 * We will print the first 2 pages of each page print them on paper.
